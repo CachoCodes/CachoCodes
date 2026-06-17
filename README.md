@@ -27,12 +27,9 @@
     <img
         src="https://github-readme-stats.vercel.app/api?username=CachoCodes&theme=merko&show_icons=true&hide_border=true"
         alt="GitHub Stats">
-    <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CachoCodes&layout=compact&theme=merko&hide_border=true"
-        alt="Top Languages">
-    <img
-        src="https://nirzak-streak-stats.vercel.app/?user=CachoCodes&theme=merko&hide_border=true"
-        alt="GitHub Streak">
+    <div class="stats-row">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CachoCodes&layout=compact&theme=merko&hide_border=true"alt="Top Languages">
+    </div>
 </div>
   <h2>🚀 Currently Working On</h2> 
   <ul> <li>🤖 Estelar Team (FRC)</li> 
