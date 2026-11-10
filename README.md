@@ -13,7 +13,7 @@
     <li>🇵🇾 I'm from Paraguay.</li> 
     <li>🤖 I have experience with Arduino and ESP32 development.</li> 
     <li>🧠 I'm passionate about Computer Science and Mechatronics.</li> 
-    <li>🐧 I use Arch Linux, by the way.</li> 
+    <li>🐧 I use Cachy OS.</li> 
   </ul> 
   <h2>💻 Tech Stack</h2> 
   <div class="tech-stack"> 
@@ -22,14 +22,6 @@
       <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
     
   </div> 
-  <h2>📊 GitHub Stats</h2> 
-  <div class="github-stats">
-    <img
-        src="https://github-readme-stats.vercel.app/api?username=CachoCodes&theme=merko&show_icons=true&hide_border=true"
-        alt="GitHub Stats">
-    <div class="stats-row">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CachoCodes&layout=compact&theme=merko&hide_border=true"alt="Top Languages">
-    </div>
 </div>
   <h2>🚀 Currently Working On</h2> 
   <ul> <li>🤖 Estelar Team (FRC)</li> 
